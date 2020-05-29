@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>我的个人博客</title>
+  <title>张某博客</title>
   
   <subtitle>春物：大老师语录</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://depaing.github.io/"/>
+  <link href="https://depaing.github.io/"/>
   <updated>2020-05-29T07:43:18.742Z</updated>
-  <id>http://depaing.github.io/</id>
+  <id>https://depaing.github.io/</id>
   
   <author>
-    <name>zhang</name>
+    <name>zhang某</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://depaing.github.io/2020/05/29/hello-world/"/>
-    <id>http://depaing.github.io/2020/05/29/hello-world/</id>
+    <link href="https://depaing.github.io/2020/05/29/hello-world/"/>
+    <id>https://depaing.github.io/2020/05/29/hello-world/</id>
     <published>2020-05-29T07:43:18.742Z</published>
     <updated>2020-05-29T07:43:18.742Z</updated>
     
