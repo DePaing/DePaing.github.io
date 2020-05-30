@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>个人博客</title>
+  <title>DePrive</title>
   
   <subtitle>大老师语录</subtitle>
   <link href="/atom.xml" rel="self"/>
@@ -18,9 +18,9 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://deprive.gitee.io/2020/05/29/hello-world/"/>
-    <id>https://deprive.gitee.io/2020/05/29/hello-world/</id>
-    <published>2020-05-29T07:43:18.742Z</published>
+    <link href="https://deprive.gitee.io/2020/05/30/hello-world/"/>
+    <id>https://deprive.gitee.io/2020/05/30/hello-world/</id>
+    <published>2020-05-30T10:46:12.321Z</published>
     <updated>2020-05-29T07:43:18.742Z</updated>
     
     <summary type="html">
