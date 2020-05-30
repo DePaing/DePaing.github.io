@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>张某博客</title>
   
-  <subtitle>春物：大老师语录</subtitle>
+  <subtitle>大老师语录</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://depaing.github.io/"/>
